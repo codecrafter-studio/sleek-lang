@@ -1,0 +1,6 @@
+output 114514
+output "Hello World"
+var a = 123
+output a
+input "Hello: " as a
+output a
